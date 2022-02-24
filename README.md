@@ -19,7 +19,7 @@
 <img src="">
 
 ## Live Link
-- Pooja-saini467()
+- Pooja-saini467(https://pooja-saini467.github.io/3-preview-card/)
 
 
 ## My Process
