@@ -16,7 +16,7 @@
 - It's complete responsive . 
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/3-preview-card/blob/main/design/desktop-design.jpg">
 
 ## Live Link
 - Pooja-saini467(https://pooja-saini467.github.io/3-preview-card/)
